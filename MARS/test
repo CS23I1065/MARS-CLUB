@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir ./modified
+find . -type f -name "*.txt" -exec mv {} ./modified  \;
+find ./modified -type f -name "*.txt" -exec mv {} {}.bak \;
+echo "COMPLETED!"
