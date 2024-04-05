@@ -23,7 +23,10 @@ I spent 1.5 hours learning the fundamentals of the new programming language C++,
 
 **PART-1**
 
-This question is my first c++ question,I got too many errors.For my 30-35 lines of code,I got errors at line no 188,180.This question doesn't test my patience much,I got it after around 20 minutes of restructure and correcting syntax in the code
+This question is my first c++ question,I got too many errors.For my 30-35 lines of code,I got errors at line no 188,180.This question doesn't test my patience much,I got it after around 20 minutes of restructure and correcting syntax in the code.
+
+In my code I had created a struct which contains students name and their marks in DSA and DSCS,It will display the students details with a command about the mark they got.
+The mark above 50 considered as good and below 50 considered as poor
 
 **PART-2**
 
@@ -31,24 +34,33 @@ For this question,I learnt the oops and class throughouly but I can't able to ap
 
 ## STRONG DOSE
 
-The less time that I allocated is for strong dose.
+The less time that I allocated is for strong dose.I enjoyed a lot in this dose has I felt this interesting
 
 **PART-1**
 
 Actually,I know this code is not efficient and It doesn't satisfy the requirements fully but it can work till some extend.As I did this in C.It took me very less time.
 
+The function prime or not will check the whether the number is a prime number
+
+It will get the value from the user and it has nested for loop which contain 4 for loop and the if statement will ensure all th whether the multiplying the four numbers matches the key given by the user
+
 **PART-2**
 
-I didn't even start this question because I saw that opencv concept has more videos in youtube I will try learn about this in due time
+I didn't even start this question because I saw that opencv concept has more videos in youtube.I will try learn about this in due time
 
 ## CONCLUSION
 
 I cannot even imagine how I tried to learn all this is in very less time
 
 1.C++ 
+
 2.Markdown 
+
 3.Linux 
+
 4.Ubuntu 
+
 5.OpenCV
 
-This whole task made me to realise my whole potential that I can learn many concepts in less time.I know that this is a very small part and I myself know I could have done more but anyways thank you for making me to learn something THANK YOU
+This whole task made me to realise my whole potential that I can learn many concepts in less time.I know that this is a very small part and I myself know I could have done more but anyways thank you for making me to learn something 
+ ## THANK YOU
